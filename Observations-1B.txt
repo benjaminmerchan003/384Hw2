@@ -1,0 +1,9 @@
+﻿<nav> - Wraps the 6 link list of the pages within this repo. <nav> is a semantic element that defines a section of the page that holds navigation links, telling browsers, screenreaders, and search engines where (important) links are located. 
+
+
+<article> - located within the main tag of the file, and wraps the entire body of the page. <article> is a semantic element that tells the browser, search engines, and screen readers that the content inside it is independent, self-contained and complete. 
+
+<section> - used to wrap sub-sections within the <main>. For example each level 3 header is in its own section, including any level 4 headers nested inside it. <section> is a semantic element that groups related content together, signaling that the content forms a standalone thematic unit within the page.
+
+
+<aside> - used to wrap the indirect <section> information in the single page it is used. Within this repo <aside> has a css style attached to it, giving the indirect W3C warning a stylized appearance for readability. <aside> is a semantic element  and is used to showcase information that is tangentially related to that section's topic but not essential to understanding it.
